@@ -1,0 +1,5 @@
+[
+  {"id":"p1","user":"dani","text":"Vanilla JS + http nativo. Sin framework.","likes":12,"liked":false,"comments":["sí","el server pesa poco"]},
+  {"id":"p2","user":"luna","text":"Mate y un feed. Curuzú mode.","likes":7,"liked":false,"comments":["jaj"]},
+  {"id":"p3","user":"nico","text":"Si corre en Cloud Run, entra al portafolio.","likes":4,"liked":false,"comments":[]}
+]
